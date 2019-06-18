@@ -1,0 +1,6 @@
+[
+  { "directory": "/home/nkiyo/clang-tidy-sample/",
+    "command": "/usr/bin/clang++-6.0 -Weverything file.cc",
+    "file": "file.cc"
+  }
+]
